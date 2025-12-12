@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+   
+   #main{
+     
+    background-color: black;
+        height: 100vh;
+      
+} 
+
+#cursor {
+
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0 0 30px rgb(102, 204, 229);
+}
