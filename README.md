@@ -11,3 +11,10 @@ This is a simple HTML, CSS, and JavaScript project used to practice GSAP animati
 - Beginner friendly code
 - Responsive basic layout
 
+## 🌐 Live Demo
+
+Check out the live project here:  
+[View Live Project](https://polite-froyo-9afa47.netlify.app/)
+
+
+
